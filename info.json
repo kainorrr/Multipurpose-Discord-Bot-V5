@@ -7,7 +7,7 @@
     "serverLink": "https://discord.gg/encoders",
     "wh_cl": "Webhook1",
     "wh_bl": "Webhook2",
-    "statusText": ".help",
+    "statusText": "*help",
     "EXTENSIONS": [
         "cogs.events"
     ],
