@@ -1,0 +1,17 @@
+{
+    "OWNER_IDS": [
+        1262495680505712651
+    ],
+    "TOKEN": "There",
+    "BotName": "Grid",
+    "serverLink": "https://discord.gg/vksd8xNyvy",
+    "wh_cl": "https://discord.com/api/webhooks/1267056678285738136/XsSwg2r5OFjDVjdBjZovisKi594JXJ4K6wTrMLl6UkshuMDZkXY_6gjgBaL7GPgLVIXL",
+    "wh_bl": "https://discord.com/api/webhooks/1267056678285738136/XsSwg2r5OFjDVjdBjZovisKi594JXJ4K6wTrMLl6UkshuMDZkXY_6gjgBaL7GPgLVIXL",
+    "statusText": "*help | Grid Private Bot",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        1262495680505712651
+    ]
+}
